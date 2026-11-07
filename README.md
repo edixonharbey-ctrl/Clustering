@@ -15,5 +15,5 @@ Identificar la estructura de agrupamiento natural de 178 muestras de vino a part
 ```text
 ├── wine.data.txt                      # Dataset original (178 registros, 14 columnas)
 ├── clustering_wine.ipynb              # Notebook de Python / Google Colab con el paso a paso
-├── Informe_Clustering_Wine_KMeans.docx# Informe académico final editable en Word
+├── Informe_Clustering.docx            # Informe académico 
 └── README.md                          # Guía de ejecución e información general del proyecto
